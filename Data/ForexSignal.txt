@@ -1,8 +1,4 @@
-Week,EURJPY,DD,SB,Ramesh,06-Aug
-Week,EURJPY,TT,Sell,Ramesh,06-Aug
-Week,EURJPY,TT,Sell,Ramesh,06-Aug
-Day,EURAUD(7),CB,Sell,Ramesh,10-aug
-Week,EURAUD,S3,Buy,Ramesh,06-Aug
-Week,EURAUD,S3,Buy,bama,06-Aug
-Week,EURAUD,S3,Buy,madhan10,06-Aug
-Week,EURAUD,S3,Buy,aruna,06-Aug
+Day,NZDJPY(8),CB,Sell,Ramesh,09-Nov
+Day,CADCHF,DD,SB,Ramesh,11-Nov
+Day,NZDCAD(8),CB,Sell,Ramesh,13-Nov
+Week,USDJPY,TT,Buy,Ramesh,09-Nov

@@ -1,8 +1,4 @@
-Madhan(99),EURCAD,BUY,09 November 2020,12 November 2020,Win,nice trade on S3
-Madhan(99),CADJPY,BUY,12 November 2020,19 November 2020,BreakEven,just missed
-Madhan(99),NZDCAD,SELL,11 November 2020,04 November 2020,Loss,nice trade
-Madhan(99),EURGBP,BUY,11-Nov-2020,19-Nov-2020,Win,
-Madhan(99),EURGBP,SELL,10-Nov-2020,10-Nov-2020,Win,test
-Madhan(99),EURGBP,SELL,24-Nov-2020,12-Nov-2020,Win,test
-Madhan(99),NZDCAD,BUY,14/11/2020 19:15:20,27/11/2020 19:15:20,Win,testing
-Madhan(99),EURGBP,BUY,14-Nov-2020,15-Nov-2020,Win,
+Bama(85),GBPNZD,SELL,27-Oct-2020,09-Nov-2020,Win,Nice trade it got 4%
+Bama(85),AUDUSD,SELL,12-Nov-2020,12-Nov-2020,Win,Double bar entry H1 bar closed end of the day with 1%
+Madhan(99),CADCHF,SELL,11-Nov-2020,12-Nov-2020,Win,Double Day sell bar from Top, Closed with 1% profit
+Aruna(43),EURUSD,SELL,13-Nov-2020,13-Nov-2020,Loss,First trage in opening account placed R1. but it lost 1%
