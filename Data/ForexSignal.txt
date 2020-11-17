@@ -3,3 +3,6 @@ Week,EURJPY,TT,Sell,Ramesh,06-Aug
 Week,EURJPY,TT,Sell,Ramesh,06-Aug
 Day,EURAUD(7),CB,Sell,Ramesh,10-aug
 Week,EURAUD,S3,Buy,Ramesh,06-Aug
+Week,EURAUD,S3,Buy,bama,06-Aug
+Week,EURAUD,S3,Buy,madhan10,06-Aug
+Week,EURAUD,S3,Buy,aruna,06-Aug
