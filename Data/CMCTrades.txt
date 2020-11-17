@@ -1,0 +1,8 @@
+Madhan(99),EURCAD,BUY,09 November 2020,12 November 2020,Win,nice trade on S3
+Madhan(99),CADJPY,BUY,12 November 2020,19 November 2020,BreakEven,just missed
+Madhan(99),NZDCAD,SELL,11 November 2020,04 November 2020,Loss,nice trade
+Madhan(99),EURGBP,BUY,11-Nov-2020,19-Nov-2020,Win,
+Madhan(99),EURGBP,SELL,10-Nov-2020,10-Nov-2020,Win,test
+Madhan(99),EURGBP,SELL,24-Nov-2020,12-Nov-2020,Win,test
+Madhan(99),NZDCAD,BUY,14/11/2020 19:15:20,27/11/2020 19:15:20,Win,testing
+Madhan(99),EURGBP,BUY,14-Nov-2020,15-Nov-2020,Win,

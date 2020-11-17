@@ -1,0 +1,5 @@
+Week,EURJPY,DD,SB,Ramesh,06-Aug
+Week,EURJPY,TT,Sell,Ramesh,06-Aug
+Week,EURJPY,TT,Sell,Ramesh,06-Aug
+Day,EURAUD(7),CB,Sell,Ramesh,10-aug
+Week,EURAUD,S3,Buy,Ramesh,06-Aug
