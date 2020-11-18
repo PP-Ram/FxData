@@ -2,4 +2,4 @@ Bama(85),GBPNZD,SELL,27-Oct-2020,09-Nov-2020,Win,Nice trade it got 4%
 Bama(85),AUDUSD,SELL,12-Nov-2020,12-Nov-2020,Win,Double bar entry H1 bar closed end of the day with 1%
 Madhan(99),CADCHF,SELL,11-Nov-2020,12-Nov-2020,Win,Double Day sell bar from Top, Closed with 1% profit
 Aruna(43),EURUSD,SELL,13-Nov-2020,13-Nov-2020,Loss,First trage in opening account placed R1. but it lost 1%
-Bama(85),EURUSD,SELL,18-Nov-2020,18-Nov-2020,Win,Placed small trade for 1:1 and closed .5%-
+Bama(85),EURUSD,SELL,18-Nov-2020,18-Nov-2020,Win,Placed small trade for 1:1 and closed .5%
