@@ -1,5 +1,3 @@
-Day,NZDJPY(8),CB,Sell,Ramesh,09-Nov
-Day,CADCHF,DD,SB,Ramesh,11-Nov
 Day,NZDCAD(8),CB,Sell,Ramesh,13-Nov
 Week,NZDCAD(5),CB,Sell,Ramesh,20-Nov
 Week,EURNZD(5),CB,Buy,Ramesh,20-Nov
