@@ -3,3 +3,6 @@ Bama(85),AUDUSD,SELL,12-Nov-2020,12-Nov-2020,Win,Double bar entry H1 bar closed 
 Madhan(99),CADCHF,SELL,11-Nov-2020,12-Nov-2020,Win,Double Day sell bar from Top, Closed with 1% profit
 Aruna(43),EURUSD,SELL,13-Nov-2020,13-Nov-2020,Loss,First trage in opening account placed R1. but it lost 1%
 Bama(85),EURUSD,SELL,18-Nov-2020,18-Nov-2020,Win,Placed small trade for 1:1 and closed .5%
+Madhan(99),AUDSGD,SELL,15-Nov-2020,24-Nov-2020,Loss,Daily Train track, top side, Hit stop loss after 12 days. During that time two buy bar
+Madhan(99),EURUSD,SELL,18-Nov-2020,24-Nov-2020,Loss,Two Sell bar from Day, after 6 days hit stoploss, Posibilites to close the trade during the many days.
+Madhan(99),EURUSD,SELL,24-Nov-2020,24-Nov-2020,Win,H1 bar from R2 and closed with 1% profit
