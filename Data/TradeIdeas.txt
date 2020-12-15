@@ -15,4 +15,8 @@ placed EURCHF buy 1:1 - TT + DD
 eurmxn close with good profit
 ------
 14-Dec
+VB project finished and send on mail
+USDCHF TT check 
+
+
 
