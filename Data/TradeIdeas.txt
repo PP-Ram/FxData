@@ -15,14 +15,12 @@ placed EURCHF buy 1:1 - TT + DD
 eurmxn close with good profit
 ------
 14-Dec
-<<<<<<< HEAD
+-------
 gold seccond trade placed Sell (frist one going +ve)
 closed one trade with small profit
 15-Dec
-=======
-VB project finished and send on mail
-USDCHF TT check 
->>>>>>> bda13db5ef013c036d53e71e78af126e8472daaa
+--------
+NZDCAD new trade( two trade running at same time)
 
 
 
