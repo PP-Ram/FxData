@@ -1,4 +1,3 @@
 Week,EURMXN(9),CBR,Buy,Ramesh,23-Nov
 Day,GBPAUD,TT,Buy,Ramesh,30-Nov
 Week,NZDCAD(6),CBR,Sell,Ramesh,30-NOV
-Week,EURCHF(4),CBR,Sell,Ramesh,30-NOV
