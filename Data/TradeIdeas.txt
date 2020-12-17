@@ -25,5 +25,8 @@ NZDCAD new trade( two trade running at same time)
 16-Dec
 --------
 EURAUD & EURSGD placed 1:1 trade 
-
-
+17-Dec
+-------
+GBPJPY -check h4 entry(2.00pm)
+gnpjpy place sell trade for S3(for day and H4)
+gbpjpy hit SL
