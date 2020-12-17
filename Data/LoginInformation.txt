@@ -2,5 +2,13 @@
 15/12/2020 21:16:13 - Ramesh - Exit the app
 16-12-2020 15:34:37 - RaksofIndia - Loged in
 16-12-2020 15:35:05 - RaksofIndia - Exit the app
+<<<<<<< HEAD
 16-12-2020 15:36:53 - RaksofIndia - Loged in
 16-12-2020 15:37:47 - RaksofIndia - Exit the app
+=======
+12/16/2020 11:23:38 PM - Madhavan - Loged in
+12/16/2020 11:24:05 PM - Madhavan - Exit the app
+12/16/2020 11:24:23 PM - Madhavan - Loged in
+12/16/2020 11:24:45 PM - Madhavan - Exit the app
+>>>>>>> 827a165e0e7a2512f55b6ffd835dea8a04940008
+17-12-2020 11:34:57 - RaksofIndia - Loged in
