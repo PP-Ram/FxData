@@ -1,7 +1,7 @@
 18-Dec
 --------
-
-
+Just for testing: EURGBP(DD), GBPAUD(TT), GBPJPY(s3)
+Placed three trades for testing:
 17-Dec
 -------
 GBPJPY -check h4 entry(2.00pm)

@@ -1,3 +1,8 @@
-Week,EURMXN(9),CBR,Buy,Ramesh,23-Nov
-Day,GBPAUD,TT,Buy,Ramesh,30-Nov
-Week,NZDCAD(6),CBR,Sell,Ramesh,30-NOV
+Day,NZDJPY(8),CB,Sell,Ramesh,09-Nov,1
+Day,CADCHF,DD,SB,Ramesh,11-Nov,1
+Day,NZDCAD(8),CB,Sell,Ramesh,13-Nov,1
+Week,USDJPY,TT,Buy,Ramesh,09-Nov,1
+Week,USDCAD,TT,Buy,Ramesh,09-Nov,0
+Week,EURMXN,TT,SELL,Ramesh,09-Nov,0
+Week,USDCHF,TT,SELL,Ramesh,09-Nov,0
+Day,NZDCAD(11),CBR,Sell,Ramesh,20-nov,1
