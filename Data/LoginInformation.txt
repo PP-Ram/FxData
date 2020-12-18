@@ -14,6 +14,7 @@
 17-12-2020 11:34:57 - RaksofIndia - Loged in
 17-12-2020 11:51:43 - RaksofIndia - Exit the app
 17-12-2020 11:52:09 - RaksofIndia - Loged in
+<<<<<<< HEAD
 17-12-2020 14:31:44 - RaksofIndia - Exit the app
 17-12-2020 14:32:31 - RaksofIndia - Loged in
 17-12-2020 15:37:37 - RaksofIndia - Exit the app
@@ -21,3 +22,11 @@
 18-12-2020 11:31:57 - RaksofIndia - Exit the app
 18-12-2020 11:39:50 - RaksofIndia - Loged in
 18-12-2020 11:59:03 - RaksofIndia - Exit the app
+=======
+17/12/2020 08:59:23 - Ramesh - Loged in
+17/12/2020 10:07:27 - Ramesh - Exit the app
+17/12/2020 14:33:06 - Ramesh - Loged in
+17/12/2020 14:50:01 - Ramesh - Exit the app
+17/12/2020 17:13:07 - Ramesh - Loged in
+>>>>>>> 034bc9e0128657de874beb874557b904e3e5ae61
+18-12-2020 12:09:30 - RaksofIndia - Loged in
