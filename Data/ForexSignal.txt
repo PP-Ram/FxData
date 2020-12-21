@@ -6,3 +6,4 @@ Week,USDCAD,TT,Buy,Ramesh,09-Nov,0
 Week,EURMXN,TT,SELL,Ramesh,09-Nov,0
 Week,USDCHF,TT,SELL,Ramesh,09-Nov,0
 Day,NZDCAD(11),CBR,Sell,Ramesh,20-nov,1
+Day,GBPNZD,DD,SB,Madhavan,17-DEC,1
