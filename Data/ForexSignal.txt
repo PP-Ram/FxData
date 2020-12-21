@@ -1,5 +1,5 @@
 Week,NZDCAD(5),CB,Sell,Ramesh,07-Dec,0
 Week,EURMXN,TT,Buy,Ramesh,07-Dec,1
-Week,GOLD,S3,Sell,Ramesh,14-DEC,1
+Week,USGOLD,S3,Sell,Ramesh,14-DEC,1
 Week,USDCAD(4),CBR,Buy,Ramesh,14-DEC,1
 Week,CHFJPY,DD,SB,Ramesh,14-DEC,1
