@@ -3,3 +3,4 @@ Week,EURMXN,TT,Buy,Ramesh,07-Dec,1
 Week,USGOLD,S3,Sell,Ramesh,14-DEC,1
 Week,USDCAD(4),CBR,Buy,Ramesh,14-DEC,1
 Week,CHFJPY,DD,Sell,Ramesh,14-DEC,1
+Day,AUDCHF,S3,Buy,Ramesh,22-DEC,1
