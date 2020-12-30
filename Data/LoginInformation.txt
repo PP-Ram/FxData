@@ -69,3 +69,4 @@
 24/12/2020 09:35:23 - Ramesh - Loged in
 29-12-2020 12:08:01 - RaksofIndia - Loged in
 30-12-2020 12:55:39 - RaksofIndia - Loged in
+30-12-2020 13:00:20 - RaksofIndia - Exit the app
